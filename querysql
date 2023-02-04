@@ -1,0 +1,3 @@
+create table book (id serial, title varchar, author varchar, year varchar);
+insert into books (title, author, year) values('Zharkyn is great', 'Mr. Zharkyn', '2022');
+insert into books (title, author, year) values('assembler greatest', 'Mr. Asm', '2022');
